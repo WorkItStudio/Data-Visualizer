@@ -55,4 +55,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, please contact [Robert](mailto:potohuncho@gmail.com).
+For any questions or feedback, please contact [Me](mailto:potohuncho@gmail.com).
